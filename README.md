@@ -22,7 +22,7 @@ In this project, a fully connected neural network is trained to predict the temp
 
 ### 1.1 One-Dimensional Heat Equation
 
-The one-dimensional heat equation describes how temperature changes over space and time.
+The one-dimensional heat equation is:
 
 $$
 \frac{\partial u(x,t)}{\partial t}
