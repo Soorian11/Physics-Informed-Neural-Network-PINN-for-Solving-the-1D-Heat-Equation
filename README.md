@@ -1,0 +1,1 @@
+# Physics-Informed-Neural-Network-PINN-for-Solving-the-1D-Heat-Equation
