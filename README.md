@@ -293,43 +293,7 @@ These plots help assess whether the network has learned the expected heat diffus
 - **Matplotlib** – Data visualization.
 - **Google Colab / Jupyter Notebook** – Development and experimentation.
 
-## 9. How to Run the Project
 
-### Option 1: Google Colab
-
-1. Open the project notebook in Google Colab.
-2. Make sure the required libraries are available.
-3. Run the notebook cells sequentially.
-4. Wait for the neural network training to complete.
-5. Examine the generated visualizations and evaluation metrics.
-
-### Option 2: Local Environment
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-Install the required libraries:
-
-```bash
-pip install numpy matplotlib torch
-```
-
-Open the notebook using Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Run the notebook cells sequentially.
 
 ## 10. Limitations and Future Improvements
 
