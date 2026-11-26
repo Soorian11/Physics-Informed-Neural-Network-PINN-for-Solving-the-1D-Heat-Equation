@@ -128,13 +128,7 @@ The PINN is trained using three loss components.
 ### 3.1 PDE Residual Loss
 
 The heat equation residual is defined as:
-
-$$
-f_\theta(x,t)=
-\frac{\partial u_\theta}{\partial t}
--
-\alpha\frac{\partial^2u_\theta}{\partial x^2}
-$$
+$$f_\theta(x,t)=\frac{\partial u_\theta}{\partial t}-\alpha\frac{\partial^2u_\theta}{\partial x^2}$$
 
 For an exact solution:
 
