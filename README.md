@@ -23,13 +23,7 @@ In this project, a fully connected neural network is trained to predict the temp
 ### 1.1 One-Dimensional Heat Equation
 
 The one-dimensional heat equation is:
-
-$$
-\frac{\partial u(x,t)}{\partial t}
-=
-\alpha \frac{\partial^2 u(x,t)}{\partial x^2}
-$$
-
+$$\frac{\partial u(x,t)}{\partial t} = \alpha \frac{\partial^2 u(x,t)}{\partial x^2}$$
 Where:
 
 - $u(x,t)$: Temperature at spatial position $x$ and time $t$.
