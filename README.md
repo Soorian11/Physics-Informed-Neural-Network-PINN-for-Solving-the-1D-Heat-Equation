@@ -95,9 +95,7 @@ A Physics-Informed Neural Network is a neural network trained using both data co
 
 The network approximates the temperature function as:
 
-$$
-u(x,t)\approx u_\theta(x,t)
-$$
+$$u(x,t)\approx u_\theta(x,t)$$
 
 Where $\theta$ represents the trainable weights and biases of the neural network.
 
